@@ -23,7 +23,7 @@
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
-・表示された一覧から「Watch」を探す  
+・表示された一覧から「Watch De ちゃよよ」を探す  
 ・表示された「Watch De ちゃよよ」のウィジェット画面を長押しし、お好きな空いた場所に持っていく。  
 ![Wedget](https://github.com/gooth9232/WatchDeChayoyo/blob/master/img/app_wedget.png)  
     

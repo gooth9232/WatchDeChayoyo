@@ -1,5 +1,5 @@
 # 「Watch De ちゃよよ」
-<div><video controls src="https://github.com/gooth9232/WatchDeChayoyo/blob/master/img/title_mov.mp4" muted="true"></video></div>
+![WatchFace](https://github.com/gooth9232/WatchDeChayoyo/blob/master/img/app_title.png)  
 「はばたけちゃよよ」「親子でちゃよよ」の“非公式”ファンメイドコンテンツです。  
   
 このプログラムは Android 8.0以降に対応した、時計ウィジェットアプリです。  
@@ -16,7 +16,7 @@
   
 ②apkファイルの実行  
 ・下のリンクをクリックしてアプリをインストール  
-　https://github.com/gooth9232/TheBestWatch/releases/download/1.0.6/TheBestWatch_106n.apk  
+　https://github.com/gooth9232/WatchDeChayoyo/releases/download/1.0.0/WatchDeChayoyo_100.apk  
 
 　※ストアによるスキャンがおすすめされますので、スキャン実行してインストールを行ってください。  
 　※旧版などがインストールされている場合は、先にウィジェットの削除／アンインストールを行ってください。  

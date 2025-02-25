@@ -1,6 +1,8 @@
 # 「Watch De ちゃよよ」
 ![WatchFace](https://github.com/gooth9232/WatchDeChayoyo/blob/master/img/app_title.png)  
-「はばたけちゃよよ」「親子でちゃよよ」の“非公式”ファンメイドコンテンツです。  
+「はばたけちゃよよ」(https://www.youtube.com/@chayoyo79)  
+「親子でちゃよよ」(https://www.youtube.com/@chayoyo-family)  
+　の“非公式”ファンメイドコンテンツです。  
   
 このプログラムは Android 8.0以降に対応した、時計ウィジェットアプリです。  
 １分ごとに異なるシーンで、ヒロさんとレイさんがワチャワチャします。  
